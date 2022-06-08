@@ -1,9 +1,6 @@
 /**
- * Joneesa Camoorato
- * CPS141 - Spring 2022
+
  * May 4th 2022
- * Instructor: Adam Divelbiss
- * Assignment: Program 10
  * Purpose: Calculator using JavaFx to create a savings calculator using compound
  *  interest to show future value of a monthly savings plan assuming an annual interest rate 
  *  and number of years
